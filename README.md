@@ -1,2 +1,2 @@
-# Notification
+# react-notification
 Created with CodeSandbox
